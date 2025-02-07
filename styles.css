@@ -52,3 +52,8 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.fondo {
+    background-color: rgba(240, 255, 255, 0.479);
+    margin: 10px;
+}
